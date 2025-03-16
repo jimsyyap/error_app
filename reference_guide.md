@@ -1,4 +1,4 @@
-# Tennis Error Tracker: Project Reference Guide
+# Tracker: Project Reference Guide
 
 This document serves as a comprehensive reference for the **Tennis Error Tracker** web application, a tool designed for tennis players to log and analyze unforced errors during matches. It includes the project overview, technical stack, database schema, API contracts, file/folder structure, setup instructions, and a development roadmap—everything needed to understand, contribute to, or troubleshoot the project.
 
@@ -88,7 +88,7 @@ The backend exposes RESTful endpoints. All except `/register` and `/login` requi
 
 ## 5. File/Folder Structure
 ```
-tennis-error-tracker/
+error_app/
 ├── backend/                    # Go backend
 │   ├── cmd/                    # Main entry point
 │   ├── pkg/                    # Shared packages
