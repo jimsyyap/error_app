@@ -1,0 +1,19 @@
+# notes
+notes.txt
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.iml
+
+# System Files
+*.swp
+*.swo
+
+# Debug and Testing
+debug.log
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+jest/
+cypress/

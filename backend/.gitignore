@@ -1,0 +1,33 @@
+# General
+.DS_Store
+Thumbs.db
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+logs/
+coverage/
+*.bak
+
+# Golang
+bin/
+obj/
+*.exe
+*.out
+*.test
+*.mod
+*.sum
+*.swp
+/vendor/
+debug/
+tmp/
+
+# PostgreSQL
+*.sql~
+*.sqlite
+*.sqlite3
+*.pgsql
+pgdata/
+migrations/
